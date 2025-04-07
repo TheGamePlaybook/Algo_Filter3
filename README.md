@@ -41,3 +41,5 @@ Note: you have to put the + or - before the = sign
 
 P.s all prime moves are 1's to make code work so F' = F1
 Example: -F1=3 meaning that there will be 3 F' in the alg
+
+There will be more updates coming soon like whether you want the final U moves to show or not, if you only want 3 gen algs from a set of any kinds of gens in your compiled list, rotations, powers, stuff like that.
