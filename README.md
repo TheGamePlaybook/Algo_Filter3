@@ -1,6 +1,8 @@
 # Algo_Filter3
 The best CMD extension to sort all your Rubik's Cube algorithms pulled from all your generators to give you the exact types of algorithms you're looking for. Gone are the days of searching manually—just let this program do its thing and feel really cool.
+
 Basic fundamentals for this program are as follows:
+
 Insert the path to the rubiks cube generator or the txt document you compiled all of your algorithms into, I will be using kubesolver in this case.
 --silent -d 13 are just parts of kubesolver to say don't tell me the depths just go down to a length of 13 so the computers memory doesn't get jacked up.
 less-than into the txt document.
